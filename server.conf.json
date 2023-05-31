@@ -1,0 +1,14 @@
+{
+  "server": "paperapi://1.19.4",
+  "debug": true,
+  "debug_port": 8080,
+  "backup": false,
+  "restart": false,
+  "no_update": false,
+  "memory": 2,
+  "plugins": [],
+  "jvm_args": [
+    "--Dcom.mojang.xxx=true"
+  ],
+  "show_ip": true
+}
