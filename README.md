@@ -8,11 +8,11 @@
 
 커맨드:
 
-/captive start - captive 미니게임을 시작하는 명령어
+/captive start - captive 미니게임을 시작합니디.
 
-/captive list - 진행도를 나타내는 명령어
+/captive list - 도전과제의 진행도를 나타냅니다.
 
-/captive pause - 잠시 미니게임을 중단합니다, 모든 플레이어는 스펙터로 변환되며, OP인 사람만 움직일수 있습니다.
+/captive pause - 잠시 미니게임을 중단합니다. 모든 플레이어는 스펙터로 변환되며, OP인 사람만 움직일수 있습니다.
 
 /captive resume - 중단된 미니게임을 다시 시작합니다.
 
